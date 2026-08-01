@@ -1,16 +1,19 @@
-# Pierrelvx Qpress
+# homebrew-qpress
 
-## How do I install these formulae?
+Homebrew tap for [qpress](https://github.com/PierreLvx/qpress), the portable
+high-speed file archiver.
 
-`brew install pierrelvx/qpress/<formula>`
+## Install
 
-Or `brew tap pierrelvx/qpress` and then `brew install <formula>`.
+```
+brew tap PierreLvx/qpress
+brew install qpress
+```
 
-Or, in a `brew bundle` `Brewfile`:
+Or in one line:
 
-```ruby
-tap "pierrelvx/qpress"
-brew "<formula>"
+```
+brew install PierreLvx/qpress/qpress
 ```
 
 ## Documentation
