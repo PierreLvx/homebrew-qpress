@@ -1,8 +1,8 @@
 class Qpress < Formula
   desc "Portable high-speed file archiver"
   homepage "https://github.com/PierreLvx/qpress"
-  url "https://github.com/PierreLvx/qpress/archive/refs/tags/20260801.tar.gz"
-  sha256 "ef3d969eb1cc9c5a22e5d64c1ccdcd41a076f8e347a669e7d4c5274d522f2ca8"
+  url "https://github.com/PierreLvx/qpress/archive/refs/tags/20260802.tar.gz"
+  sha256 "8c97335e6e5e7cd12d20753f78ca75bbb54699fe34dbac330f98c14114176927"
   license "GPL-3.0-or-later"
 
   def install
